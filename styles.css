@@ -9,4 +9,8 @@
 	height:100px;
 	width:100px;
 	background-color:red;
+	text-align:center;
+	display:flex;
+	align-items:center;
+	
 }
